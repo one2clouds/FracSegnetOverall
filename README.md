@@ -1,4 +1,4 @@
 MICCAI PENGWIN Challenge
 
 
-MICCAI 2024 paper [link](https://github.com/YzzLiu/FracSegNet)
+MICCAI 2024 original paper [link](https://github.com/YzzLiu/FracSegNet)
